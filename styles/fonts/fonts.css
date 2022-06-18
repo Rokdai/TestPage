@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Quentin";
+  src: url("../../assets/fonts/Quentin.otf") format("otf");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Tiempos Fine";
+  src: url("../../assets/fonts/TiemposFine-Bold.otf") format("otf");
+  font-style: normal;
+  font-weight: normal;
+}
